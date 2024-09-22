@@ -1,2 +1,3 @@
-# seon-test-app-android
+# Sample Android App
+
 A Test App that integrates SeonSDK(PhotoSDK)
