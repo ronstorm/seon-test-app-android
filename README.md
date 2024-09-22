@@ -1,3 +1,3 @@
-# Sample Android App
+# SeonSDK Android App
 
-A Test App that integrates SeonSDK(PhotoSDK)
+A Sample App that integrates [SeonSDK Android Library](https://github.com/ronstorm/seonsdk-android).
